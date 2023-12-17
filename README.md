@@ -1,2 +1,2 @@
-# bountycreative
-Creative ideas for bounty
+# Knowledge base
+Feel free to contribute
