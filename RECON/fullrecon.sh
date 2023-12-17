@@ -20,3 +20,8 @@ waymore -i $target -mode U
 echo "URLs finished"
 
 ffuf -u https://www.$target/ -H "FUZZ.$target" -o $folder_name/virtualhost.ffuf
+#Add github-subdomains 
+#Add oneliners
+#Add cloud_enum
+#Add getJS
+#Add gospider
