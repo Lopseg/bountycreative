@@ -1,3 +1,5 @@
+
+
 1. **Identificar chamadas de API**:
    ```bash
    jsluice query -q "(call_expression function: (member_expression) @api_call)" seu_arquivo.js
