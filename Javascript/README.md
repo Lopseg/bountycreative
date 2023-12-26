@@ -1,4 +1,4 @@
-Understanding Nodes in AST**
+**Understanding Nodes in AST**
 
 Each code element, be it a variable, function, or string, is represented as a node in the Abstract Syntax Tree (AST). For example, `**identifier**` represents variable names, while `function` pertains to functions.
 
